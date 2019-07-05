@@ -61,6 +61,7 @@ class ProductsList extends Component {
 								</div>
 							</div>
 							<span class="name">cum soluta nobis</span>
+							<span class="price">120$</span>
 							<span><Link to= '/single-product'>Read more</Link></span>
 						</div>
 					</li>
@@ -76,7 +77,8 @@ class ProductsList extends Component {
 									<span class="bg"></span>
 								</div>
 							</div>
-							<span class="name">deserunt mollitias</span>
+							<span class="name">cum soluta nobis</span>
+							<span class="price">120$</span>
 							<span><Link to= '/single-product'>Read more</Link></span>
 						</div>
 					</li>
@@ -92,7 +94,8 @@ class ProductsList extends Component {
 									<span><Link to= '/single-product'>Read more</Link></span>
 								</div>
 							</div>
-							<span class="name">cumque nihil impedit</span>
+							<span class="name">cum soluta nobis</span>
+							<span class="price">120$</span>
 							<span><Link to= '/single-product'>Read more</Link></span>
 						</div>
 					</li>
@@ -108,7 +111,8 @@ class ProductsList extends Component {
 									<span class="bg"></span>
 								</div>
 							</div>
-							<span class="name">maxime placeat facere</span>
+							<span class="name">cum soluta nobis</span>
+							<span class="price">120$</span>
 							<span><Link to= '/single-product'>Read more</Link></span>
 						</div>
 					</li>
@@ -125,6 +129,7 @@ class ProductsList extends Component {
 								</div>
 							</div>
 							<span class="name">cum soluta nobis</span>
+							<span class="price">120$</span>
 							<span><Link to= '/single-product'>Read more</Link></span>
 						</div>
 					</li><li>
@@ -140,6 +145,7 @@ class ProductsList extends Component {
 								</div>
 							</div>
 							<span class="name">cum soluta nobis</span>
+							<span class="price">120$</span>
 							<span><Link to= '/single-product'>Read more</Link></span>
 						</div>
 					</li><li>
@@ -155,6 +161,7 @@ class ProductsList extends Component {
 								</div>
 							</div>
 							<span class="name">cum soluta nobis</span>
+							<span class="price">120$</span>
 							<span><Link to= '/single-product'>Read more</Link></span>
 						</div>
 					</li>

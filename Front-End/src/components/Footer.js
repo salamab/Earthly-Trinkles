@@ -17,8 +17,9 @@ class Footer extends Component {
           <div className="heading">
             <h3>About us</h3>
           </div>
-          <p>Vero eos et accusamus et iusto dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti</p>
-          <p>Quos dolores et quas molestias excepturi sint occaecati cupiditate.</p>
+          <p >At Earthly Trinkets we make handcrafted jewelry one bead at a time. Each semi precious gem is chosen for its quality and beauty.
+             we buy gemstones from all over the world to bring you jewelry that is unique and beautiful and of excellent quality.
+             To most of us jewelry has special meaning and is very sentimental.</p>
         </div>
         <div className="col">
           <div className="heading">
@@ -27,7 +28,7 @@ class Footer extends Component {
           <address>
             <p><strong>Elegantic Inc.</strong></p>
             <p>1041 Madison Ave,</p>
-            <p>New York</p>
+            <p>Lebanon</p>
           </address>
           <address>
             <p>(45) 523 565 242</p>
@@ -40,16 +41,15 @@ class Footer extends Component {
           </div>
           <ul className="social">
             <li className="facebook"><a href="#">Facebook</a></li>
-            <li className="google"><a href="#">Google+</a></li>
+            <li className="instagrame"><a href="#">instagrame</a></li>
             <li className="twitter"><a href="#">Twitter</a></li>
-            <li className="pinterest"><a href="#">Pinterest</a></li>
           </ul>
         </div>
       </div>
     </div>
     <div className="footer-bottom">
       <div className="holder">
-        <p>Copyright 2014 Elegantic. All rights reserved.</p>
+        <p>Copyright 2019 Elegantic. All rights reserved.</p>
       </div>
     </div>
   </div>
